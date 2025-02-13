@@ -49,7 +49,7 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "Nizzy Starter Docs",
+      title: "Keboraurus Docs",
       logo: {
         alt: "Nizzy Starter Logo",
         src: "img/squircle.svg",
@@ -62,7 +62,7 @@ const config: Config = {
           label: "Tutorial",
         },
         {
-          href: "https://github.com/NizarAbiZaher/nizzy-starter",
+          href: "https://github.com/Ardani-mith",
           label: "GitHub",
           position: "right",
         },

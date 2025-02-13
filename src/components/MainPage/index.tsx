@@ -9,7 +9,7 @@ export default function MainPage(): JSX.Element {
       <div className="flex flex-col items-center space-y-10 xl:space-y-16">
         <div className="grid gap-4 px-10 md:grid-cols-2 md:gap-16 max-w-6xl">
           <div className="flex flex-col items-start gap-4">
-            <h2 className="m-0">Welcome to the Nizzy Starter Docs!</h2>
+            <h2 className="m-0">Welcome to the Keboraurus Docs!</h2>
             <span className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
               This docs contain a series of guides with examples for libraries
               and tools I use on all my projects. New content will be
